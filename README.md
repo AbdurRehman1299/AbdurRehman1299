@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @AbdurRehman1299
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Full Stack Web Developement
+- 💞️ I’m looking to collaborate on multiple projects
+- 📫 You can reach me on email (abdurrehman76001@gmail.com)
+- ⚡ Fun fact: I am also a footballer.
