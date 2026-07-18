@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I'm Muhammad Abdur Rehman, a Software Engineering student and full-stack developer based in Lahore, Pakistan.
+I'm Muhammad Abdur Rehman, a Software Engineering student and backend developer based in Lahore, Pakistan.
 
 I enjoy building web applications using Next.js, NestJS, PostgreSQL, and TypeScript. Most of my work focuses on backend development, scalable APIs, and creating fast, user-friendly web experiences.
 
